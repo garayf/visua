@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+plugins:
+  - jekyll-include-cache
+
+remote_theme: "mmistakes/minimal-mistakes@4.20.1"
+
