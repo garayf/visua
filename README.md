@@ -1,4 +1,6 @@
-# Computación Visual 
+# Computación Visual 2020-2
+
+[visual-2020-2.github.io](https://visual-2020-2.github.io)
 
 Página creada para el desarrollo del curso Computación Visual durante el semestre 2020-2
 
