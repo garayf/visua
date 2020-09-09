@@ -4,7 +4,8 @@ plugins:
 
 # GLOBAL THEME CONFIG
 remote_theme: "mmistakes/minimal-mistakes@4.20.1"
-minimal_mistakes_skin: "neon" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "air" # "default"
+# "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 title: "Entregas Visual"
 title_separator: "|"
