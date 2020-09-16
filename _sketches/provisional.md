@@ -4,3 +4,5 @@
     * Aplicación de algunas máscaras de convolución.
     * (solo para imágenes) Despliegue del histograma y segmentación a partir de este. Tema de indagación: otros métodos de segmentación.
     * (solo para video) Medición de la eficiencia computacional para las operaciones realizadas.
+* Realizar un estudio de las ilusiones ópticas: dos grupos (~3 implementaciones x grupo), indagación teórica, posibles aplicaciones.
+
