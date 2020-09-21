@@ -38,7 +38,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
+      share: false
 
 # Necessary to load p5.js library (in all output files)
 head_scripts:
