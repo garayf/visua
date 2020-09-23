@@ -21,10 +21,10 @@ include: ["_pages"]
 collections:
   sketches:
     output: true
-    permalink: /:collection/:path/
+    #permalink: /:collection/:name/
   illusions:
     output: true
-    permalink: /:collection/:path/
+    #permalink: /:collection/:name/
 
 defaults:
   # _pages

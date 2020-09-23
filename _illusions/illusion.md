@@ -6,7 +6,7 @@ A sample illusion page.
 This is some sample content before the template sketch.
 
 <!-- Sketch file location, (pending organization) -->
-<script src="/sketches/illusions/illusion.js"></script>
+<script src="illusion.js"></script>
 <!-- Necessary element to position p5 canvas -->
 <div id="sketch-div"></div>
 
