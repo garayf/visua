@@ -1,7 +1,7 @@
 ---
 title: Optical Illusions
 layout: collection
-permalink: /sketches/illusions/
+permalink: /illusions/
 collection: illusions
 entries_layout: grid
 classes: wide

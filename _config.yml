@@ -24,7 +24,7 @@ collections:
     permalink: /:collection/:path/
   illusions:
     output: true
-    permalink: /sketches/:collection/:path/
+    permalink: /:collection/:path/
 
 defaults:
   # _pages
@@ -33,7 +33,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _sketches
   - scope:
       path: ""
