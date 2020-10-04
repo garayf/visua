@@ -14,7 +14,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(400, 400, WEBGL);
+  var canvas = createCanvas(400, 400, WEBGL);
   canvas.parent('sketch-div');
   vid.loop();
   noStroke();
