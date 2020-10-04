@@ -3,7 +3,8 @@ var showBlackRectangles=true;
 var Xposition = 0; 
 
 function setup() {
-  createCanvas(400, 400);
+  var canvas = createCanvas(400, 400);
+  canvas.parent('sketch-div');
   background(255);
   noStroke();
 }
