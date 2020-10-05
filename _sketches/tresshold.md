@@ -1,4 +1,8 @@
-Here we have a gray scale filter using tresshold:
+---
+title: Grayscale Threshold
+---
+
+Here we have a gray scale filter using thresshold:
 
 <!-- Sketch file location, (pending organization) -->
 <script src="tresshold.js"></script>
