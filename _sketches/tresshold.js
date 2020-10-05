@@ -1,5 +1,5 @@
 function preload() {
-  img = loadImage("data/conv2.png");
+  img = loadImage("data/download.jpg";
 }
 
 function setup() {
