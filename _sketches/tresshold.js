@@ -18,8 +18,9 @@ function draw(){
             pixels[i] = pixels[i + 1] = pixels[i + 2] = 255;
         }
      }
-     */
+     
     updatePixels();
    
     image(img,0,0)
+    */
 }
