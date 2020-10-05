@@ -14,6 +14,7 @@ function setup() {
         }
     }
     updatePixels();
+    image(img,0,0)
     noLoop();
 }
 
