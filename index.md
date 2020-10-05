@@ -9,7 +9,7 @@ The source code for this Jekyll site and all experiments shown can be found in
 
 ---
 
-- [Home](/) `YOU ARE HERE`
+- [Home](/visua) `YOU ARE HERE`
 - [Sketches](/sketches)\
   General sketches for all class workshops.
 - [Optical Illusions](/illusions)\
