@@ -3,6 +3,10 @@ var tresshold = 128
 function setup() {
     var canvas = createCanvas(400, 400);
     canvas.parent('sketch-div');
+
+}
+
+function draw(){
     img = loadImage("data/conv2.png");
     loadPixels();
     for (let i = 0; i < pixels.length; i+=4) {
@@ -15,9 +19,4 @@ function setup() {
     }
     updatePixels();
     image(img,0,0)
-    noLoop();
-}
-
-function draw(){
-
 }
