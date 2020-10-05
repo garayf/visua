@@ -1,6 +1,6 @@
 # Computación Visual 2020-2
 
-[visual-2020-2.github.io](https://visual-2020-2.github.io)
+[visual-2020-2.github.io](https://garayf.github.io/visua/)
 
 This is our website for all things [Visual Computing](https://visualcomputing.github.io).
 
