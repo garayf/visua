@@ -9,8 +9,9 @@ function setup() {
 }
 
 function draw(){   
-    /*
+    
     img.loadPixels();
+  /*
     for (let i = 0; i < pixels.length; i+=4) {
         let c = color(pixels[i], pixels[i + 1], pixels[i + 2], pixels[i + 3])
         if (brightness(c) < tresshold) {
