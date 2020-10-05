@@ -1,6 +1,4 @@
-function preload() {
-  img = loadImage("data/download.jpg");
-}
+
 
 function setup() {
     var canvas = createCanvas(400, 400);
@@ -9,7 +7,7 @@ function setup() {
 }
 
 function draw(){   
-    
+    /*
     img.loadPixels();
     /*
     for (let i = 0; i < pixels.length; i+=4) {
