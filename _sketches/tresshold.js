@@ -1,5 +1,3 @@
-var tresshold = 128
-
 function preload() {
   img = loadImage("data/conv2.png");
 }
