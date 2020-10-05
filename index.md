@@ -19,10 +19,10 @@ The source code for this Jekyll site and all experiments shown can be found in
 
 Team:
 - Nicolás Felipe Gavilán
-- María Alejandra Robayo
+- María Alejandra Robayo [marobayos](https://github.com/marobayos)
 - Diego Alejandro Rodríguez
 - Diego Alejandro Salgado
-- Juan Camilo Vargas [/jcvar](https://github.com/jcvar)
+- Juan Camilo Vargas [jcvar](https://github.com/jcvar)
 
 ---
 
